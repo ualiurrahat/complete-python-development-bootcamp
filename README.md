@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&labelColor=1a1a2e)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Actively%20Growing-brightgreen?style=for-the-badge&labelColor=1a1a2e)](https://github.com/ualiurrahat/complete-python-development-bootcamp/commits/main)
 
-> *"Python is the most powerful language you can still read."* — Paul Dubois
+> _"Python is the most powerful language you can still read."_ — Paul Dubois
 
 **⭐ If this repository is helping your Python journey, please give it a star — it helps others find it too!**
 
@@ -25,12 +25,12 @@ The long-term goal of this journey is **Data Analytics and Data Science** — an
 
 ## 🎯 Who Is This For?
 
-| Audience | How This Helps |
-|---|---|
-| 🌱 **Complete Beginners** | Start from Chapter 01 — every concept explained from scratch |
-| 🎓 **CS / IT Students** | Structured coverage that complements university Python coursework |
-| 💼 **Interview Candidates** | Core Python concepts with real examples, not just theory |
-| 🔬 **Developers from C/C++/JS** | See how Python handles the same ideas differently and why |
+| Audience                        | How This Helps                                                      |
+| ------------------------------- | ------------------------------------------------------------------- |
+| 🌱 **Complete Beginners**       | Start from Chapter 01 — every concept explained from scratch        |
+| 🎓 **CS / IT Students**         | Structured coverage that complements university Python coursework   |
+| 💼 **Interview Candidates**     | Core Python concepts with real examples, not just theory            |
+| 🔬 **Developers from C/C++/JS** | See how Python handles the same ideas differently and why           |
 | 📊 **Aspiring Data Scientists** | Strong Python fundamentals are the gateway to NumPy, Pandas, and ML |
 
 ---
@@ -145,24 +145,24 @@ complete-python-development-bootcamp/
 
 ## 📊 Progress at a Glance
 
-| # | Chapter | Files | Status |
-|---|---|---|---|
-| 01 | Data Types | 12 | ✅ Complete |
-| 02 | Conditionals | 6 | ✅ Complete |
-| 03 | Loops | 10 | ✅ Complete |
-| 04 | Functions | 16 | ✅ Complete |
-| 05 | Modules and Packages | 3 | ✅ Complete |
-| 06 | Comprehensions | 5 | ✅ Complete |
-| 07 | Generators | 4 | ✅ Complete |
-| 08 | Decorators | 3 | ✅ Complete |
-| 09 | Object Oriented Programming | 5 | 🔄 In Progress |
-| — | FreeCodeCamp Projects | 3 | 🔄 In Progress |
-| 🔄 | Exception Handling | — | Coming Soon |
-| 🔄 | File I/O | — | Coming Soon |
-| 🔄 | Regular Expressions | — | Coming Soon |
-| 🔄 | Itertools & Functools | — | Coming Soon |
-| 🔄 | Concurrency & Async | — | Coming Soon |
-| 🔄 | NumPy & Pandas Basics | — | Coming Soon |
+| #   | Chapter                     | Files | Status         |
+| --- | --------------------------- | ----- | -------------- |
+| 01  | Data Types                  | 12    | ✅ Complete    |
+| 02  | Conditionals                | 6     | ✅ Complete    |
+| 03  | Loops                       | 10    | ✅ Complete    |
+| 04  | Functions                   | 16    | ✅ Complete    |
+| 05  | Modules and Packages        | 3     | ✅ Complete    |
+| 06  | Comprehensions              | 5     | ✅ Complete    |
+| 07  | Generators                  | 4     | ✅ Complete    |
+| 08  | Decorators                  | 3     | ✅ Complete    |
+| 09  | Object Oriented Programming | 5     | 🔄 In Progress |
+| —   | FreeCodeCamp Projects       | 3     | 🔄 In Progress |
+| 🔄  | Exception Handling          | —     | Coming Soon    |
+| 🔄  | File I/O                    | —     | Coming Soon    |
+| 🔄  | Regular Expressions         | —     | Coming Soon    |
+| 🔄  | Itertools & Functools       | —     | Coming Soon    |
+| 🔄  | Concurrency & Async         | —     | Coming Soon    |
+| 🔄  | NumPy & Pandas Basics       | —     | Coming Soon    |
 
 **Total so far: 67 files · 9 topic chapters · Actively expanding**
 
@@ -246,8 +246,8 @@ for number in range(1, 11):
 ## 👤 About the Author
 
 **Md. Ualiur Rahman Rahat**
-*B.Sc. EEE — Gopalganj Science and Technology University*
-*B.Sc. Computer Science (in progress) — University of the People (CGPA: 3.73)*
+_B.Sc. EEE — Gopalganj Science and Technology University_
+_B.Sc. Computer Science (in progress) — University of the People (CGPA: 3.73)_
 
 I started this Python bootcamp with a clear purpose: Python is the language of Data Science, and Data Science is where I'm headed. This repository documents every step of that foundation — built carefully, one concept at a time, with the goal of eventually working in Data Analytics and becoming a Data Scientist.
 
@@ -270,4 +270,4 @@ This repository is licensed under the [MIT License](LICENSE) — free to use, sh
 
 **⭐ Found this useful? A star takes 2 seconds and motivates continued work — thank you!**
 
-*One chapter at a time. One concept at a time. That's how mastery is built.*
+_One chapter at a time. One concept at a time. That's how mastery is built._
